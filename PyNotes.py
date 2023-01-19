@@ -1,25 +1,26 @@
-#print("hello world")
+print("hello world")
 
-#name = "Dhruv"
-#age = 19
-#print(name)
-#print(age)
+#print
+name = "Dhruv"
+age = 19
+print(name)
+print(age)
 
-#name = "Adi"
-#age = 20.0
+name = "Adi"
+age = 20.0
 
-#is_adult = True
-#print(name)
+is_adult = True
+print(name)
 
 
 #First_name = Tony
-#last_name = Stark
-#age = 51
-#is_genius = True
+last_name = Stark
+age = 51
+is_genius = True
 
 #concatenation
-#name = input("What is your name? ")
-#print("Hello " + name)
+name = input("What is your name? ")
+print("Hello " + name)
 
 
 #input Function
@@ -34,7 +35,11 @@ float()
 str()
 bool()
 
+#if,else,elif syntax
+if Operator == "+":
+elif Operator == "-":
+else Operator == "/":
 
-
+#operator
 
 
