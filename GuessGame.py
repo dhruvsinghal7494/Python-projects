@@ -12,7 +12,7 @@ while Guessed_word != Correct_word:
         print("You entered the wrong Word!")
         Guess_Turn += 1
     else:
-        print("You lost!")
+        print("Out Of Guesses, You lost!")
         break
-    
+
 
